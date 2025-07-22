@@ -1,3 +1,6 @@
 title: MemeCore
-description: Official MemeCore Terms of Service and Privacy Policy
+description: Official Terms of Service & Privacy Policy
 theme: jekyll-theme-minimal
+logo: /assets/memecore-logo.png
+show_downloads: false
+google_analytics: false

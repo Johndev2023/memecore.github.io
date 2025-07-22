@@ -3,7 +3,7 @@ layout: default
 title: MemeCore Legal
 ---
 
-<img src="/assets/memecore-logo.png" alt="MemeCore Logo" width="150" />
+<img src="/assets/memecore.png" alt="MemeCore Logo" width="150" />
 
 # Welcome to MemeCore
 

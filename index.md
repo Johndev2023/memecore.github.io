@@ -1,9 +1,19 @@
 ---
 layout: default
-title: MemeCore
+title: MemeCore Legal
 ---
+
+<img src="/assets/memecore-logo.png" alt="MemeCore Logo" width="150" />
 
 # Welcome to MemeCore
 
-- [Terms of Service](file:///C:/Users/william/privacy.html)
+This site hosts the official legal policies for the MemeCore Discord bot.
+
+## 📜 Pages
+
+- [Terms of Service](tos.md)
 - [Privacy Policy](privacy.md)
+
+## 💬 Support
+
+Need help? Join our [Discord Support Server](https://discord.gg/8zKWzrmPbT).

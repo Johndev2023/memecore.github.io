@@ -1,3 +1,30 @@
 title: MemeCore
-description: Official MemeCore Terms of Service and Privacy Policy
+description: >-
+  Official MemeCore site for Terms of Service and Privacy Policy.
+  Powered by GitHub Pages using the Minimal theme.
+baseurl: "" # Leave empty unless hosted in a subfolder
+url: "https://memecore.github.io"
+
+# GitHub Pages theme
 theme: jekyll-theme-minimal
+
+# Customization options
+logo: Memecore.png # Place your logo in the assets folder
+show_downloads: false
+google_analytics: false
+
+# Social links (optional)
+discord: https://discord.gg/8zKWzrmPbT
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# You can add links to ToS and Privacy Policy here
+navigation:
+  - title: "Terms of Service"
+    url: "/tos.html"
+  - title: "Privacy Policy"
+    url: "/privacy.html"
